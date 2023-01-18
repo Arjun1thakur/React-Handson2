@@ -1,0 +1,54 @@
+
+.main {
+  text-align: center;
+}
+nav{
+  background-color: rgba(255, 255, 255, 0.151);
+  box-shadow: 1px 1px 10px gainsboro;
+  padding: 10px 50px;
+}
+.logo{
+  font-size: 2.5rem;
+  font-weight: 700;
+  text-align: center;
+  text-shadow: 2px 2px 2px dodgerblue;
+}
+
+.heading{
+  margin:20px;
+  display: grid;
+  grid-template-columns: repeat(2,1fr);
+  grid-template-rows: repeat(2,auto);
+  align-items: center;
+  justify-items: center;
+}
+.btn{
+  all: unset;
+  padding: 10px 20px;
+  box-shadow: 1px -1px 5px gainsboro;
+  border-radius: 10px;
+  margin: 30px;
+  margin-left:0px ;
+  font-size: 1.5rem;
+  text-shadow: 2px 2px 2px deepskyblue;
+}
+.function{
+  position: relative;
+  left: 0px;
+}
+.class{
+  position: relative;
+  right: 0px;
+}
+.btn:hover{
+  background-color: rgba(247, 247, 247, 0.120);
+}
+.cardfun{
+  width: 550px;
+  height: 350px;
+  border-radius: 20px;
+  background-color: rgba(255, 255, 255, 0.151);
+  padding: 4% 5px;
+  text-align: center;
+  font-size: 1.5rem;
+}

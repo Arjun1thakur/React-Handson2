@@ -1,0 +1,48 @@
+.foam{
+    background-color: rgba(255, 255, 255, 0.2);
+    width: 80%;
+    margin: 20px auto;
+    padding: 50px;
+    text-align: center;
+    font-size: 1.8rem;
+    border-radius: 10px;
+}
+.input{
+    font-size: 1.5rem;
+    padding: 10px;
+    height: 4vh;
+    width: 40%;
+    border: none;
+    border-radius: 3px;
+}
+#submit{
+    margin: 10px;
+    /* all: unset; */
+    font-size: 1.5rem;
+    box-shadow: 1px 1px 3px gainsboro;
+    padding: 5px 30px;
+}
+.header{
+    text-align: center;
+    margin: 20px;
+    border-radius: 10px;
+    background-color: rgba(255, 255, 255, 0.2);
+    font-size: 3rem;
+    padding: 10px 0px;
+    text-shadow: 2px 2px 3px blue;
+}
+.getData{
+    background-color: rgba(255, 255, 255, 0.2);
+    padding: 20px;
+    width: 90%;
+    margin: 0 auto;
+    border-radius: 10px;
+}
+table{
+    width: 100%;
+    font-size: 1.5rem;
+}
+th{
+    border: 1px solid pink;
+    border-radius: 10px;
+}
